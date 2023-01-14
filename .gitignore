@@ -1,0 +1,6 @@
+TBC.spec
+Result/
+dist/
+build/
+__pycache__/
+TBC.zip
